@@ -1,46 +1,22 @@
-# clean-cms
+# Clean CMS
 
-A quick clean-cms implementation that demonstrates a lightweight content management system using Ruby on Rails.
+## Introduction
+A quick implementation of a clean content management system.
 
 ## Features
-- User authentication
-- Simple content creation and management
-- RESTful API endpoints
+- User-friendly interface
+- Easy content management
 
-## Technologies Used
-- Ruby on Rails
+## Technology Stack
+- HTML
+- CSS
+- JavaScript
 
-## Getting Started
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/lwan4cald/clean-cms.git
-   cd clean-cms
-   ```
-2. Install the required gems:
-   ```bash
-   bundle install
-   ```
-3. Set up the database:
-   ```bash
-   rails db:create
-   rails db:migrate
-   ```
-4. Start the server:
-   ```bash
-   rails server
-   ```
+## Usage
+1. Clone the repository.
+2. Open `index.html` in a web browser.
+3. Follow the instructions in the document.
 
 ## Future Plans
-- Add more features like tagging and comments
-- Improve UI design
-
-## FAQ
-
-**Q: How do I get started?**
-A: Clone the repository and follow the installation instructions above.
-
-**Q: Is this production ready?**
-A: This is currently in active development. Use at your own risk.
-
-**Q: How can I contribute?**
-A: See the Contributing section above.
+- Add more features like user authentication.
+- Improve UI/UX design.
